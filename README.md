@@ -11,7 +11,7 @@ This is a preview of my personal website using HTML, CSS and JAVASCRIPT.
 
 ### Procedure to clone project
 * Open your terminal
-* Type git clone https://github.com/daveeazi/cv.git
+* Type git clone https://github.com/Eshita781996/resume.git
 * Type cd cv to change directory to the folder of the project
 * Run the project in your local machine
 
@@ -20,9 +20,8 @@ https://daveeazi.github.io/cv/
 
 ### 👤 **Author**
 
-* [GitHub](https://github.com/daveeazi)
-* [Twitter](https://twitter.com/iamdaveeazi)
-* [LinkedIn](https://www.linkedin.com/in/david-atat/)
+* [GitHub](https://github.com/Eshita781996)
+* [LinkedIn](https://www.linkedin.com/in/eshita1/)
 
 ### Contributing
 
