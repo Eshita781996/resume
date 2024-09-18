@@ -116,7 +116,9 @@ p{
 .my-image{
   max-width: 30%;
 }
-
+.worksample-image{
+  max-width: 90%;
+}
 .mountain{
   max-width: 200px;
   margin-top: 55px;
@@ -127,6 +129,11 @@ p{
   max-width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+}
+.portfolio-row{
+  max-width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: center;
 }
 
 .computer{
@@ -154,6 +161,10 @@ p{
 
 .introduction{
   width: 30%;
+  margin: auto;
+}
+.portfolio-introduction{
+  width: 70%;
   margin: auto;
 }
 
